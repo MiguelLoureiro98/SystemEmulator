@@ -16,7 +16,7 @@ The circuit was soldered and tested on a perfboard:
 
 ![board](images/Board.jpg)
 
-Here is a zoom in:
+Here is a zoom-in:
 
 ![board](images/Board_zoom_in.png)
 
