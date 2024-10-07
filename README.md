@@ -14,7 +14,7 @@ where $R_1$ and $R_2$ can be set by the user.
 # Board layout
 The circuit was soldered and tested on a perfboard:
 
-![board](images/Board.jpeg)
+![board](images/Board.png)
 
 Here is a zoom in:
 
