@@ -11,3 +11,5 @@
 | 7 | 2 | - | 4-slot headers | - | - | - |
 | 8 | 2 | - | 3-slot headers | - | - | - |
 | 9 | 1 | - | 6-slot headers | - | - | - |
+| 10 | 1 | - | Potentiometer | 10k | Ohm | - |
+| 11 | 1 | - | Potentiometer | 20k | Ohm | - |
